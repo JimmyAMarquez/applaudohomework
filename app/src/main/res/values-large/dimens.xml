@@ -1,0 +1,11 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <dimen name="left_list_size">395dp</dimen>
+    <dimen name="activity_horizontal_margin">8dp</dimen>
+    <dimen name="activity_vertical_margin">8dp</dimen>
+    <dimen name="icon_width">100dp</dimen>
+    <dimen name="icon_height">100dp</dimen>
+    <dimen name="linear_layout">130dp</dimen>
+    <dimen name="video_width">190dp</dimen>
+</resources>

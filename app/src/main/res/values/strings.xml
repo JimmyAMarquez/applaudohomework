@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Applaudo</string>
+    <string name="json_team_url">http://107.170.150.115/homework/applaudo_homework.json</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Share</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="intent_title">Share next games and dates</string>
+    <string name="intent_error">tap on an item to be able to share</string>
+    <string name="internet_error">Sorry, no internet connection</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
